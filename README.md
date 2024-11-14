@@ -1,1 +1,39 @@
-# ITS70304
+java cSCHOOL OF COMPUTER SCIENCEMASTER OF APPLIED COMPUTING (MAC)ASSIGNMENT 2 (Weightage 15%)SEPTEMBER 2024 SEMESTER
+MODULE NAME
+: Principles of AI
+MODULE CODE
+: ITS70304
+DATE/TIME
+: 8:00 PM (MYT)
+PLATFORM
+: TIMeS
+Assessment CriteriaAssessment 
+TaskWeightageMLO AssessedFormative/SummativeAssessment InstrumentTopicsWeekMQF 2.0Practical Skills15%2SummativeN/A3,4,74C5Google CollaboratoryC3AMLO2 — Perform. a knowledge on Data Privacy and Ethical Consideration.C1 = Knowledge  Understanding, C2 = Cognitive Skills, C3A = Practical Skills, C3B = Interpersonal Skills, C3C = Communication Skills, C3D = Digital Skills, C3E = Numeracy Skills, C3F = Leadership, Autonomy  Responsibility, C4A = Personal Skills, C4B = Entrepreneurial Skills, C5 = Ethics  Professionalism
+Scenario and Task DescriptionHeart disease is any condition that affects your heart, such as coronary artery disease and arrhythmia. There are many tests that a doctor may use to diagnose your heart condition.Heart disease is any condition that affects your heart. According to the Centers for Disease Control and Prevention (CDC)Trusted Source, heart disease is responsible for 1 in 4 four deaths in the United States each year. It’s a leading cause of death in both men and women.To diagnose heart disease, your doctor will perform. a series of tests and evaluations. They may also use some of these tests to screen you for heart disease before you develop noticeable symptoms.During your appointment, your doctor will ask you about your symptoms and your family medical history. They’ll also check your heart rate and blood pressure.Your doctor may also order blood tests. For example, cholesterol tests measure the levels of fat and cholesterol in your bloodstream. Your doctor can use these tests to help determine your risk of heart disease and heart attack.A complete cholesterol test checks four types of fats in your blood:· Total cholesterol: The sum of all cholesterol in your blood.· Low-density lipoprotein (LDL) cholesterol: Sometimes called “bad” cholesterol, too much of it causes fat to build up in your arteries, which reduces blood flow. This can lead to a heart attack or stroke.· High-density lipoprotein (HDL) cholesterol: Sometimes called “good” cholesterol, it helps carry away LDL cholesterol and clear your arteries.· Triglycerides: A type of fat in your blood, triglycerides are sometimes associated with diabetes, smoking, and excessive alcohol consumption – especially in high levels.Your doctor may also order C-reactive protein (CRP) tests to check your body for signs of inflammation. They can use the results of your CRP and cholesterol tests to assess your risk of heart disease.AI is increasingly being used to classify and diagnose heart diseases with high accuracy. By analyzing complex medical data such as electrocardiograms (ECGs), imaging scans, and patient health records, AI can provide insights that support early detection, diagnosis, and personalized treatment.Practical SkillsPerform. exploratory data analysis and build a predictive model that answers the question: “how heart disease can be predicted” based on the factors identified in the heart-disease.csv dataset. Write a python program to answer the following.However, before the prediction can be made this dataset needs to be pre-processed before it can be fed into AI prediction model. Pre-process the heart-disease.csv dataset with Python programming on Google Colab. Each question below required your code.1. Patient’s record is considered confidential. How do you think AI can be used to protect the data privacy from patient’s record?(1 mark)2. Loading dataset into a Pandas DataFrame. and list the libraries you may need to use. Find the following information: (3 marks)a. Number of rows and columnsb. Find the basic statistics of all column. Listing the basic information of the columns- find out the data type for each column3. Handle missing values. Find number of missing values from each attribute and handle them. You  may use dropna() or imputation. Justify代 写ITS70304 Principles of AI ASSIGNMENT 2Python
+代做程序编程语言 your method. (2 marks)4. Identify 2 main variables that can show high relationship with the target variable in detecting the heart disease? Plot a heatmap to explore the relationship between them. (3 marks)5. If you think it is suitable for feature scaling to normalize some of the columns, please code it. Some of our models require the input data to be normalized, so normalize the features data. Justify your method.Hint: use.StandardScaler() OR MinMaxScaler(). (3 marks)6. Create a single train/test split of the data. Set aside 80% for training, and 20% for testing. Create a  RandomForestClassifier and fit it to your training data. Measure the accuracy of the resulting decision tree model using your test data. (3 marks)
+To demonstrate a broad and coherent theoretical and technical knowledge comprehension,add comments where necessary throughout the program. Please make sure you copy paste the respective code in your pdf file and explain each of them.
+
+Marking Rubrics (lecturer’s use only)Attach as second page in the report.The purpose of this learning assignment is based on the following module learning outcome (MLO):MLO2 — Perform. a knowledge on Data Privacy and Ethical Consideration.
+Type of activity: PracticalQuestionWeightOutstanding(80 – 100)Mastering(65 – 79)Developing(0 – 64)Practical SkillsDemonstrates comprehensive exploration and analysis of AI applications, in a highly logical and extensive manner and able to pre-process the dataset for AI application in the heart disease prediction modelling. The Python program/code is applied correctly and the solution is clearly elaborated and presented in a step by step manner. The similarity is less than 2%.Demonstrates enough interpretation/evaluation to develop a coherent exploration and analysis of AI applications and able to pre-process the dataset for AI application in the heart disease prediction modelling. The Python program/code is applied correctly and the solution is NOT clearly elaborated and presented in a step by step manner. The similarity is between 2% to 4%.Demonstrates enough interpretation/evaluation to develop a coherent exploration and analysis of AI applications and unable to pre-process the dataset for AI application in the heart disease prediction modelling. The Python program/code is applied incorrectly and the solution is NOT clearly elaborated and presented in a step by step manner. The similarity is greater than or equal to 5%.Q1_____/1Q2_____/3Q3_____/2Q4_____/3Q5_____/3Q6_____/3Submission Requirements
+1. Font type		: Times New Roman
+2. Font size		: 12
+3. Line spacing		: 1.5
+4. Alignment		: Justify Text
+5. Document type	: .pdf, .ipynb
+6. Number of pages	: 5 – 12 pages (do not exceed the page limit)
+7. Your full report should consist of the following:
+a) Cover page (Name, ID, Date, Signature, Score)
+b) Marking Rubrics  Declaration (attach as second page in the report)
+c) Report of your answer script.
+d) Appendixes (line spacing = 1.0)
+· List of references (APA format)
+· Python script.
+· Report of similarity score (percentage of similarity score from each source needs to be shown)
+8. Start each question on a separate page.
+9. All figures and tables are labelled properly.
+10. File naming conventions: StudentName_Assignment1Notes: · Student is not allowed to transcribe directly (copy and paste) any material from another source into their submission.
+· Start each question on a new page.
+· Answer in form. of short essay (50 to 200 words) and print out the relevant Python program outputs· All process/functions must be clearly explained.· Include in-text citation to support your answers and add the list of references at the end of your report (APA format). The list of references is to be alphabetized by the first author's last name, or (if no author is listed) the organization or title.· The Turnitin similarity for this module is 20% overall and lesser than 1% from a single source excluding program source codes.
+
+         
+加QQ：99515681  WX：codinghelp  Email: 99515681@qq.com
